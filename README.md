@@ -1,4 +1,4 @@
-# cousera-nlp
+# Cousera-NLP- Specialization
 
 Content
 
